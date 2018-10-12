@@ -1,6 +1,6 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
+token=NDY4NDE2OTI5OTM4NTM4NTA4.Di422g.YkNKyPXb89iez6hSNYt7hwmtLXs
 owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+prefix=$
+game=Lorans.
 stayinchannel=true
 songinstatus=true
